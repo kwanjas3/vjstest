@@ -1,30 +1,15 @@
 # vuejs-test
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
-```
 
-### Compiles and minifies for production
+enter any desc, price, the key in CAPs in the third input the click add, to submit to console click submit
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vjstest
